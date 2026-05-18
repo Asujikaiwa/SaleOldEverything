@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — 鉄スクラップ・リサイクル材グローバル取引",
+    "description": "LMEを基準としたリアルタイム国際価格。鉄系・非鉄系・産業リサイクル材のB2Bグローバル取引。",
+    "keywords": "スクラップ金属取引, LME価格, 銅価格, アルミスクラップ, 鋼スクラップ, リサイクル, 循環経済"
+  },
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ライブ価格",
+    "materials": "素材",
+    "compliance": "コンプライアンス",
+    "about": "会社情報",
+    "contact": "お問い合わせ",
+    "login": "トレーダーログイン",
+    "cta": "見積もり依頼"
+  },
+  "languageSwitcher": {
+    "label": "言語",
+    "select": "言語を選択"
+  },
+  "hero": {
+    "badge": "LME連動 · 10言語 · 50+カ国",
+    "headline": "スクラップ金属とリサイクル材のグローバル取引フロア",
+    "subheadline": "LMEを基準とした透明な価格で、鉄系・非鉄系・産業リサイクル材を取引。",
+    "searchPlaceholder": "素材を検索: 銅、HDPE、A380…",
+    "searchButton": "検索",
+    "ctaPrimary": "本日の価格を確認",
+    "ctaSecondary": "取引デスクへ連絡",
+    "stats": {
+      "volume": "月間取引量",
+      "volumeValue": "4.2億ドル+",
+      "countries": "稼働国",
+      "countriesValue": "52",
+      "materials": "追跡素材",
+      "materialsValue": "120+",
+      "uptime": "価格フィード稼働率",
+      "uptimeValue": "99.98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "グローバル価格ダッシュボード",
+    "sectionSubtitle": "LME・SHFE・地域ベンチマークを基準としたリアルタイム表示。60秒ごとに更新。",
+    "lastUpdated": "最終更新",
+    "filters": {
+      "all": "全カテゴリー",
+      "ferrous": "鉄系金属",
+      "nonFerrous": "非鉄系金属",
+      "nonMetals": "産業非金属"
+    },
+    "currency": "通貨",
+    "unit": "単位",
+    "columns": {
+      "material": "素材",
+      "grade": "グレード",
+      "buy": "買値",
+      "sell": "売値",
+      "change": "24時間変動",
+      "trend": "7日トレンド",
+      "action": "アクション"
+    },
+    "actions": {
+      "quote": "見積",
+      "details": "詳細"
+    },
+    "categories": {
+      "ferrous": "鉄系",
+      "nonFerrous": "非鉄系",
+      "nonMetals": "非金属"
+    },
+    "materials": {
+      "ironHeavy": {
+        "name": "重溶解鋼",
+        "grade": "HMS 1&2"
+      },
+      "ironLight": {
+        "name": "軽量鉄スクラップ",
+        "grade": "シュレッダー"
+      },
+      "steelStructural": {
+        "name": "構造鋼",
+        "grade": "板・形鋼"
+      },
+      "scrapCars": {
+        "name": "使用済み車両",
+        "grade": "プレス済み"
+      },
+      "copperWire": {
+        "name": "銅線 (Mill Berry)",
+        "grade": "#1"
+      },
+      "copperStripped": {
+        "name": "皮むき銅",
+        "grade": "#2"
+      },
+      "aluminumHeavy": {
+        "name": "重アルミ",
+        "grade": "6063"
+      },
+      "aluminumCans": {
+        "name": "アルミ缶 (UBC)",
+        "grade": "Talc"
+      },
+      "brass": {
+        "name": "真鍮",
+        "grade": "Honey / Ocean"
+      },
+      "stainless": {
+        "name": "ステンレス",
+        "grade": "304"
+      },
+      "hdpe": {
+        "name": "HDPE産業用",
+        "grade": "再生材"
+      },
+      "pet": {
+        "name": "PETボトル",
+        "grade": "クリア圧縮"
+      },
+      "occ": {
+        "name": "段ボール",
+        "grade": "OCC #11"
+      },
+      "ewaste": {
+        "name": "電子スクラップ",
+        "grade": "低グレード基板"
+      }
+    }
+  },
+  "trust": {
+    "sectionTitle": "グローバルコンプライアンス対応",
+    "sectionSubtitle": "すべての出荷は検証済みコンプライアンス、認証処理、エンドツーエンドのトレーサビリティを経ています。",
+    "items": {
+      "iso": {
+        "title": "ISO 14001認証",
+        "description": "全処理施設の環境マネジメントシステム監査済み。"
+      },
+      "basel": {
+        "title": "バーゼル条約準拠",
+        "description": "リサイクル材の越境移動規則に完全準拠。"
+      },
+      "shipping": {
+        "title": "グローバル輸送ネットワーク",
+        "description": "52カ国対応のフレイトフォワーダー、FCL/LCL対応。"
+      },
+      "kyc": {
+        "title": "企業向けKYC・AML",
+        "description": "取引先デューデリジェンス、制裁スクリーニング、エスクロー対応。"
+      },
+      "rmi": {
+        "title": "責任ある鉱物調達",
+        "description": "紛争フリー金属調達のRMI基準に準拠。"
+      },
+      "audit": {
+        "title": "年次第三者監査",
+        "description": "Bureau Veritasによる重量・グレード・環境性能の独立検証。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "明日の資源を、今日取引する。",
+    "sections": {
+      "product": "製品",
+      "company": "会社",
+      "legal": "法的",
+      "connect": "コンタクト"
+    },
+    "links": {
+      "dashboard": "ライブダッシュボード",
+      "materials": "素材ライブラリ",
+      "api": "トレーダーAPI",
+      "about": "私たちについて",
+      "careers": "採用情報",
+      "press": "プレス",
+      "privacy": "プライバシー",
+      "terms": "利用規約",
+      "compliance": "コンプライアンス",
+      "contact": "お問い合わせ",
+      "support": "サポート"
+    },
+    "rights": "© 2026 TheEndRyclecle. All rights reserved.",
+    "disclaimer": "表示価格はLME連動の指標であり、確定オファーではありません。"
+  },
+  "common": {
+    "up": "上昇",
+    "down": "下落",
+    "stable": "安定",
+    "loading": "読み込み中…",
+    "perKg": "kgあたり",
+    "perTon": "tあたり",
+    "perLb": "lbあたり"
+  },
+  "errors": {
+    "notFound": {
+      "title": "ページが見つかりません",
+      "description": "お探しのページは移動したか存在しません。トレーディングフロアにお戻りください。",
+      "cta": "ホームへ戻る"
+    },
+    "boundary": {
+      "title": "問題が発生しました",
+      "description": "チームに通知済みです。再試行してください。問題が解決しない場合はトレーディングデスクへ。",
+      "retry": "再試行",
+      "home": "ホームへ"
+    }
+  },
+  "about": {
+    "headline": "循環経済の取引レイヤーを構築",
+    "subheadline": "TheEndRyclecle はグローバルスクラップ・リサイクル取引のOS — 52カ国の処理業者、ブローカー、エンドバイヤーをつなぎます。",
+    "stats": {
+      "founded": "設立",
+      "foundedValue": "2021",
+      "team": "グローバルチーム",
+      "teamValue": "180+",
+      "offices": "トレーディングオフィス",
+      "officesValue": "8"
+    },
+    "missionTitle": "私たちのミッション",
+    "missionBody": "毎年、回収可能な資材が数億トン、グローバル市場の透明なインフラ不足のために誤って価格付け・処理・廃棄されています。私たちはこれを修正するために存在します — 検証された出荷を一つずつ。",
+    "valuesTitle": "私たちの価値観",
+    "values": {
+      "transparency": {
+        "title": "徹底した透明性",
+        "body": "表示価格はすべて公開ベンチマークに連動し、出典を開示します。"
+      },
+      "compliance": {
+        "title": "デフォルトでコンプライアンス",
+        "body": "制裁スクリーニング、バーゼル準拠、認証済み重量はオプションではなく標準です。"
+      },
+      "circular": {
+        "title": "設計から循環的",
+        "body": "取引される1トンは採掘から転換される1トンです。回収インパクトを測定・公表します。"
+      }
+    }
+  },
+  "contact": {
+    "headline": "本物のトレーダーと話す",
+    "subheadline": "ロンドン、シンガポール、サンパウロから24/5で稼働。平均応答時間は4時間未満です。",
+    "form": {
+      "name": "氏名",
+      "company": "会社",
+      "email": "業務用メール",
+      "country": "国",
+      "material": "関心のある素材",
+      "volume": "月間取引量(推定)",
+      "message": "メッセージ",
+      "submit": "トレーディングデスクへ送信",
+      "sending": "送信中…",
+      "success": "ありがとうございます — トレーダーが4営業時間以内に連絡します。",
+      "selectMaterial": "カテゴリを選択…"
+    },
+    "channels": {
+      "phone": "トレーディングデスク",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "メール",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "営業時間",
+      "hoursValue": "24/5(月〜金)"
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — Globaler Handel mit Schrott und Recyclingmaterialien",
+    "description": "Echtzeit-Preise für Eisen-, NE-Metalle und industrielle Recyclingmaterialien, LME-basiert. Für globalen B2B-Handel.",
+    "keywords": "Schrotthandel, LME Preise, Kupfer, Aluminium, Stahl, Recycling, Kreislaufwirtschaft"
+  },
+  "nav": {
+    "home": "Start",
+    "dashboard": "Live-Preise",
+    "materials": "Materialien",
+    "compliance": "Compliance",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "login": "Trader-Login",
+    "cta": "Angebot"
+  },
+  "languageSwitcher": {
+    "label": "Sprache",
+    "select": "Sprache wählen"
+  },
+  "hero": {
+    "badge": "LME-basiert · 10 Sprachen · 50+ Länder",
+    "headline": "Die globale Handelsplattform für Schrott und Recyclingmaterialien",
+    "subheadline": "Handeln Sie Eisen-, NE-Metalle und industrielle Recyclingmaterialien mit transparenten LME-basierten Preisen.",
+    "searchPlaceholder": "Materialien suchen: Kupfer, HDPE, A380…",
+    "searchButton": "Suchen",
+    "ctaPrimary": "Heutige Preise prüfen",
+    "ctaSecondary": "Trading Desk kontaktieren",
+    "stats": {
+      "volume": "Monatsvolumen",
+      "volumeValue": "420 Mio. $+",
+      "countries": "Aktive Länder",
+      "countriesValue": "52",
+      "materials": "Erfasste Materialien",
+      "materialsValue": "120+",
+      "uptime": "Preis-Feed Verfügbarkeit",
+      "uptimeValue": "99,98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "Globales Preis-Dashboard",
+    "sectionSubtitle": "Live An-/Verkaufsindikationen, verankert an LME, SHFE und regionalen Benchmarks. Aktualisierung alle 60 Sekunden.",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "filters": {
+      "all": "Alle Kategorien",
+      "ferrous": "Eisenmetalle",
+      "nonFerrous": "NE-Metalle",
+      "nonMetals": "Industrielle Nichtmetalle"
+    },
+    "currency": "Währung",
+    "unit": "Einheit",
+    "columns": {
+      "material": "Material",
+      "grade": "Güte",
+      "buy": "Ankaufpreis",
+      "sell": "Verkaufspreis",
+      "change": "24h Änderung",
+      "trend": "7T Trend",
+      "action": "Aktion"
+    },
+    "actions": {
+      "quote": "Angebot",
+      "details": "Details"
+    },
+    "categories": {
+      "ferrous": "Eisen",
+      "nonFerrous": "NE",
+      "nonMetals": "Nichtmetall"
+    },
+    "materials": {
+      "ironHeavy": {
+        "name": "Schwerer Stahlschrott",
+        "grade": "HMS 1&2"
+      },
+      "ironLight": {
+        "name": "Leichter Stahlschrott",
+        "grade": "Geschreddert"
+      },
+      "steelStructural": {
+        "name": "Baustahl",
+        "grade": "Blech & Profil"
+      },
+      "scrapCars": {
+        "name": "Altfahrzeuge",
+        "grade": "Karosserie gepresst"
+      },
+      "copperWire": {
+        "name": "Kupfer Mill Berry",
+        "grade": "#1"
+      },
+      "copperStripped": {
+        "name": "Kupfer abisoliert",
+        "grade": "#2"
+      },
+      "aluminumHeavy": {
+        "name": "Aluminium schwer",
+        "grade": "6063"
+      },
+      "aluminumCans": {
+        "name": "Aluminiumdosen UBC",
+        "grade": "Talc"
+      },
+      "brass": {
+        "name": "Messing gelb",
+        "grade": "Honey"
+      },
+      "stainless": {
+        "name": "Edelstahl",
+        "grade": "304"
+      },
+      "hdpe": {
+        "name": "HDPE industriell",
+        "grade": "Natural"
+      },
+      "pet": {
+        "name": "PET-Flaschen",
+        "grade": "Klar gepresst"
+      },
+      "occ": {
+        "name": "Wellpappe",
+        "grade": "OCC #11"
+      },
+      "ewaste": {
+        "name": "Elektronikschrott",
+        "grade": "Niedrige Güte"
+      }
+    }
+  },
+  "trust": {
+    "sectionTitle": "Gebaut für globale Compliance",
+    "sectionSubtitle": "Jede Sendung durchläuft verifizierte Compliance, zertifizierte Aufbereitung und durchgängige Rückverfolgbarkeit.",
+    "items": {
+      "iso": {
+        "title": "ISO 14001 zertifiziert",
+        "description": "Umweltmanagementsysteme in allen Anlagen auditiert."
+      },
+      "basel": {
+        "title": "Basler Übereinkommen konform",
+        "description": "Vollständige Einhaltung der internationalen Regeln für grenzüberschreitende Bewegungen."
+      },
+      "shipping": {
+        "title": "Globales Versandnetzwerk",
+        "description": "Verifizierte Spediteure in 52 Ländern, FCL/LCL mit Versicherung."
+      },
+      "kyc": {
+        "title": "Enterprise KYC & AML",
+        "description": "Sorgfaltspflicht, Sanktionsprüfung, treuhandbasierte Zahlungsabwicklung."
+      },
+      "rmi": {
+        "title": "Responsible Minerals",
+        "description": "Konform mit RMI für konfliktfreie Metallbeschaffung."
+      },
+      "audit": {
+        "title": "Jährliche Drittprüfung",
+        "description": "Unabhängige Verifizierung durch Bureau Veritas."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Die Rohstoffe von morgen, heute gehandelt.",
+    "sections": {
+      "product": "Produkt",
+      "company": "Unternehmen",
+      "legal": "Rechtliches",
+      "connect": "Kontakt"
+    },
+    "links": {
+      "dashboard": "Live-Dashboard",
+      "materials": "Materialbibliothek",
+      "api": "Trader-API",
+      "about": "Über uns",
+      "careers": "Karriere",
+      "press": "Presse",
+      "privacy": "Datenschutz",
+      "terms": "AGB",
+      "compliance": "Compliance",
+      "contact": "Kontakt",
+      "support": "Support"
+    },
+    "rights": "© 2026 TheEndRyclecle. Alle Rechte vorbehalten.",
+    "disclaimer": "Angezeigte Preise sind LME-basierte Indikationen und keine verbindlichen Angebote."
+  },
+  "common": {
+    "up": "Steigt",
+    "down": "Fällt",
+    "stable": "Stabil",
+    "loading": "Lädt…",
+    "perKg": "pro kg",
+    "perTon": "pro t",
+    "perLb": "pro lb"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Die gesuchte Seite wurde verschoben oder hat nie existiert. Zurück zum Handelsraum.",
+      "cta": "Zur Startseite"
+    },
+    "boundary": {
+      "title": "Etwas ist schiefgelaufen",
+      "description": "Unser Team wurde benachrichtigt. Bitte erneut versuchen — bei Fortbestehen wenden Sie sich an den Trading Desk.",
+      "retry": "Erneut versuchen",
+      "home": "Zur Startseite"
+    }
+  },
+  "about": {
+    "headline": "Die Handelsschicht der Kreislaufwirtschaft aufbauen",
+    "subheadline": "TheEndRyclecle ist das Betriebssystem für den globalen Schrott- und Recyclinghandel — verbindet Verarbeiter, Broker und Endabnehmer in 52 Ländern.",
+    "stats": {
+      "founded": "Gegründet",
+      "foundedValue": "2021",
+      "team": "Globales Team",
+      "teamValue": "180+",
+      "offices": "Trading-Büros",
+      "officesValue": "8"
+    },
+    "missionTitle": "Unsere Mission",
+    "missionBody": "Jedes Jahr werden Hunderte Millionen Tonnen verwertbares Material falsch bepreist, falsch behandelt oder deponiert, weil dem globalen Markt eine transparente Infrastruktur fehlt. Wir existieren, um das zu ändern — eine verifizierte Sendung nach der anderen.",
+    "valuesTitle": "Wofür wir stehen",
+    "values": {
+      "transparency": {
+        "title": "Radikale Transparenz",
+        "body": "Jeder angezeigte Preis ist an einen öffentlichen Benchmark gekoppelt, Quelle offengelegt."
+      },
+      "compliance": {
+        "title": "Compliance als Standard",
+        "body": "Sanktionsprüfung, Basel-Konformität und zertifizierte Gewichte sind integriert — nicht optional."
+      },
+      "circular": {
+        "title": "Kreislauf-orientiert",
+        "body": "Jede gehandelte Tonne ist eine aus dem Bergbau abgewendete Tonne. Wir messen und veröffentlichen unsere Wirkung."
+      }
+    }
+  },
+  "contact": {
+    "headline": "Sprechen Sie mit einem echten Trader",
+    "subheadline": "Unser Trading Desk arbeitet 24/5 aus London, Singapur und São Paulo. Durchschnittliche Antwortzeit unter 4 Stunden.",
+    "form": {
+      "name": "Vollständiger Name",
+      "company": "Firma",
+      "email": "Geschäftliche E-Mail",
+      "country": "Land",
+      "material": "Material",
+      "volume": "Geschätztes Monatsvolumen",
+      "message": "Nachricht",
+      "submit": "An Trading Desk senden",
+      "sending": "Senden…",
+      "success": "Danke — ein Trader meldet sich innerhalb von 4 Geschäftsstunden.",
+      "selectMaterial": "Kategorie wählen…"
+    },
+    "channels": {
+      "phone": "Trading Desk",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "E-Mail",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "24/5 (Mo–Fr)"
+    }
+  }
+}

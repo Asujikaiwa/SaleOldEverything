@@ -1,0 +1,12 @@
+{
+  "name": "TheEndRyclecle",
+  "short_name": "Ryclecle",
+  "description": "Global trading platform for scrap metal and recyclables.",
+  "start_url": "/en",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#059669",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

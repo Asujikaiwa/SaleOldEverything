@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — Global Scrap Metal & Recyclables Trading",
+    "description": "Real-time international pricing for ferrous metals, non-ferrous metals, and industrial recyclables. LME-anchored rates for global B2B trading.",
+    "keywords": "scrap metal trading, LME prices, copper price, aluminum scrap, steel scrap, recycling, circular economy, B2B metals"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Live Prices",
+    "materials": "Materials",
+    "compliance": "Compliance",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Trader Login",
+    "cta": "Get a Quote"
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "select": "Select language"
+  },
+  "hero": {
+    "badge": "LME-Anchored Pricing · 10 Languages · 50+ Countries",
+    "headline": "The Global Trading Floor for Scrap Metal & Recyclables",
+    "subheadline": "Trade ferrous, non-ferrous, and industrial recyclables with transparent, LME-benchmarked pricing. Built for exporters, processors, and enterprise buyers.",
+    "searchPlaceholder": "Search materials, e.g. Copper Mill Berry, HDPE, A380…",
+    "searchButton": "Search",
+    "ctaPrimary": "Check Today's Rates",
+    "ctaSecondary": "Contact Trading Desk",
+    "stats": {
+      "volume": "Monthly Trade Volume",
+      "volumeValue": "$420M+",
+      "countries": "Active Countries",
+      "countriesValue": "52",
+      "materials": "Tracked Materials",
+      "materialsValue": "120+",
+      "uptime": "Price Feed Uptime",
+      "uptimeValue": "99.98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "Global Price Dashboard",
+    "sectionSubtitle": "Live buy/sell indications anchored to LME, SHFE, and regional benchmarks. Refreshed every 60 seconds.",
+    "lastUpdated": "Last updated",
+    "filters": {
+      "all": "All Categories",
+      "ferrous": "Ferrous Metals",
+      "nonFerrous": "Non-Ferrous Metals",
+      "nonMetals": "Industrial Non-Metals"
+    },
+    "currency": "Currency",
+    "unit": "Unit",
+    "columns": {
+      "material": "Material",
+      "grade": "Grade / Spec",
+      "buy": "Buy Price",
+      "sell": "Sell Price",
+      "change": "24h Change",
+      "trend": "7d Trend",
+      "action": "Action"
+    },
+    "actions": {
+      "quote": "Get Quote",
+      "details": "Details"
+    },
+    "categories": {
+      "ferrous": "Ferrous",
+      "nonFerrous": "Non-Ferrous",
+      "nonMetals": "Non-Metals"
+    },
+    "materials": {
+      "ironHeavy": { "name": "Iron — Heavy Melting Steel", "grade": "HMS 1&2 (80:20)" },
+      "ironLight": { "name": "Iron — Light Scrap", "grade": "Shredded" },
+      "steelStructural": { "name": "Structural Steel", "grade": "Plate & Structural" },
+      "scrapCars": { "name": "End-of-Life Vehicles", "grade": "Whole Body Pressed" },
+      "copperWire": { "name": "Copper — Bare Bright Wire", "grade": "Mill Berry / #1" },
+      "copperStripped": { "name": "Copper — Stripped", "grade": "#2 Birch / Cliff" },
+      "aluminumHeavy": { "name": "Aluminum — Heavy", "grade": "Tense / 6063 Extrusion" },
+      "aluminumCans": { "name": "Aluminum — UBC Cans", "grade": "Talc Grade" },
+      "brass": { "name": "Brass — Yellow", "grade": "Honey / Ocean" },
+      "stainless": { "name": "Stainless Steel", "grade": "304 Solids" },
+      "hdpe": { "name": "HDPE Industrial", "grade": "Natural Regrind" },
+      "pet": { "name": "PET Bottles", "grade": "Clear Baled" },
+      "occ": { "name": "Corrugated Cardboard", "grade": "OCC #11" },
+      "ewaste": { "name": "Electronic Scrap", "grade": "Mixed Low-Grade Boards" }
+    }
+  },
+  "trust": {
+    "sectionTitle": "Built for Global Compliance",
+    "sectionSubtitle": "Every shipment moves through verified compliance, certified processing, and end-to-end traceability.",
+    "items": {
+      "iso": {
+        "title": "ISO 14001 Certified",
+        "description": "Environmental management systems audited across all processing facilities and partner yards."
+      },
+      "basel": {
+        "title": "Basel Convention Compliant",
+        "description": "Full conformance with international transboundary movement rules for recyclable materials."
+      },
+      "shipping": {
+        "title": "Global Shipping Network",
+        "description": "Verified freight forwarders covering 52 countries, with insured FCL and LCL container handling."
+      },
+      "kyc": {
+        "title": "Enterprise KYC & AML",
+        "description": "Counterparty due diligence, sanctions screening, and escrow-ready payment workflows."
+      },
+      "rmi": {
+        "title": "Responsible Minerals",
+        "description": "Aligned with RMI (Responsible Minerals Initiative) for conflict-free sourcing of metals."
+      },
+      "audit": {
+        "title": "Annual Third-Party Audits",
+        "description": "Independent verification of weights, grades, and environmental performance by Bureau Veritas."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Trading tomorrow's resources, today.",
+    "sections": {
+      "product": "Product",
+      "company": "Company",
+      "legal": "Legal",
+      "connect": "Connect"
+    },
+    "links": {
+      "dashboard": "Live Dashboard",
+      "materials": "Materials Library",
+      "api": "Trader API",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "compliance": "Compliance",
+      "contact": "Contact Us",
+      "support": "Support Center"
+    },
+    "rights": "© 2026 TheEndRyclecle. All rights reserved.",
+    "disclaimer": "Prices shown are LME-anchored indications and are not firm offers. Final pricing subject to material inspection and contract."
+  },
+  "common": {
+    "up": "Up",
+    "down": "Down",
+    "stable": "Stable",
+    "loading": "Loading…",
+    "perKg": "per kg",
+    "perTon": "per ton",
+    "perLb": "per lb"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page not found",
+      "description": "The page you were looking for has moved or never existed. Let's get you back to the trading floor.",
+      "cta": "Back to home"
+    },
+    "boundary": {
+      "title": "Something went wrong",
+      "description": "Our team has been notified. Please try again — if the issue persists, contact our trading desk.",
+      "retry": "Try again",
+      "home": "Go home"
+    }
+  },
+  "about": {
+    "headline": "Building the circular economy's trading layer",
+    "subheadline": "TheEndRyclecle is the operating system for global scrap and recyclables trading — connecting processors, brokers, and end-buyers across 52 countries.",
+    "stats": {
+      "founded": "Founded",
+      "foundedValue": "2021",
+      "team": "Global team",
+      "teamValue": "180+",
+      "offices": "Trading offices",
+      "officesValue": "8"
+    },
+    "missionTitle": "Our mission",
+    "missionBody": "Every year, hundreds of millions of tonnes of recoverable material are mispriced, mishandled, or landfilled because the global market lacks transparent infrastructure. We exist to fix that — one verified shipment at a time.",
+    "valuesTitle": "What we stand for",
+    "values": {
+      "transparency": {
+        "title": "Radical transparency",
+        "body": "Every price you see is anchored to a public benchmark with the source disclosed."
+      },
+      "compliance": {
+        "title": "Compliance by default",
+        "body": "Sanctions screening, Basel conformance, and certified weights are built in — never optional."
+      },
+      "circular": {
+        "title": "Circular by design",
+        "body": "Every tonne traded is a tonne diverted from extraction. We measure and publish our recovery impact."
+      }
+    }
+  },
+  "contact": {
+    "headline": "Talk to a real trader",
+    "subheadline": "Our trading desk operates 24/5 from London, Singapore, and São Paulo. Average response time is under 4 hours.",
+    "form": {
+      "name": "Full name",
+      "company": "Company",
+      "email": "Business email",
+      "country": "Country",
+      "material": "Material of interest",
+      "volume": "Estimated monthly volume",
+      "message": "Message",
+      "submit": "Send to trading desk",
+      "sending": "Sending…",
+      "success": "Thanks — a trader will be in touch within 4 business hours.",
+      "selectMaterial": "Select a category…"
+    },
+    "channels": {
+      "phone": "Trading desk",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "Email",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "Hours",
+      "hoursValue": "24/5 (Mon–Fri)"
+    }
+  }
+}

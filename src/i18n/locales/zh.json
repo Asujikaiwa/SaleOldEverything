@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — 全球废金属与可回收材料交易平台",
+    "description": "实时国际定价,涵盖黑色金属、有色金属及工业可回收材料,以LME为基准的B2B全球交易。",
+    "keywords": "废金属交易, LME价格, 铜价, 铝废料, 钢废料, 回收, 循环经济, B2B金属"
+  },
+  "nav": {
+    "home": "首页",
+    "dashboard": "实时价格",
+    "materials": "材料",
+    "compliance": "合规",
+    "about": "关于",
+    "contact": "联系",
+    "login": "交易员登录",
+    "cta": "获取报价"
+  },
+  "languageSwitcher": {
+    "label": "语言",
+    "select": "选择语言"
+  },
+  "hero": {
+    "badge": "LME锚定 · 10种语言 · 50+国家",
+    "headline": "全球废金属与可回收材料交易平台",
+    "subheadline": "以LME为基准,透明地交易黑色、有色金属及工业可回收材料。",
+    "searchPlaceholder": "搜索材料,如铜线、HDPE、A380…",
+    "searchButton": "搜索",
+    "ctaPrimary": "查看今日价格",
+    "ctaSecondary": "联系交易台",
+    "stats": {
+      "volume": "月交易量",
+      "volumeValue": "4.2亿美元+",
+      "countries": "活跃国家",
+      "countriesValue": "52",
+      "materials": "追踪材料",
+      "materialsValue": "120+",
+      "uptime": "价格源稳定性",
+      "uptimeValue": "99.98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "全球价格仪表板",
+    "sectionSubtitle": "锚定LME、SHFE和区域基准的实时买卖指示,每60秒更新一次。",
+    "lastUpdated": "最后更新",
+    "filters": {
+      "all": "所有类别",
+      "ferrous": "黑色金属",
+      "nonFerrous": "有色金属",
+      "nonMetals": "工业非金属"
+    },
+    "currency": "货币",
+    "unit": "单位",
+    "columns": {
+      "material": "材料",
+      "grade": "等级/规格",
+      "buy": "买入价",
+      "sell": "卖出价",
+      "change": "24小时变化",
+      "trend": "7天趋势",
+      "action": "操作"
+    },
+    "actions": {
+      "quote": "报价",
+      "details": "详情"
+    },
+    "categories": {
+      "ferrous": "黑色金属",
+      "nonFerrous": "有色金属",
+      "nonMetals": "非金属"
+    },
+    "materials": {
+      "ironHeavy": {
+        "name": "重熔废钢",
+        "grade": "HMS 1&2 (80:20)"
+      },
+      "ironLight": {
+        "name": "轻型废铁",
+        "grade": "破碎料"
+      },
+      "steelStructural": {
+        "name": "结构钢",
+        "grade": "板材与型材"
+      },
+      "scrapCars": {
+        "name": "报废车辆",
+        "grade": "整体压块"
+      },
+      "copperWire": {
+        "name": "铜线 (光亮铜)",
+        "grade": "Mill Berry #1"
+      },
+      "copperStripped": {
+        "name": "剥皮铜",
+        "grade": "#2 Birch / Cliff"
+      },
+      "aluminumHeavy": {
+        "name": "重铝",
+        "grade": "Tense / 6063"
+      },
+      "aluminumCans": {
+        "name": "铝罐 (UBC)",
+        "grade": "Talc级"
+      },
+      "brass": {
+        "name": "黄铜",
+        "grade": "Honey / Ocean"
+      },
+      "stainless": {
+        "name": "不锈钢",
+        "grade": "304 Solids"
+      },
+      "hdpe": {
+        "name": "HDPE工业塑料",
+        "grade": "天然再生料"
+      },
+      "pet": {
+        "name": "PET瓶",
+        "grade": "透明打包"
+      },
+      "occ": {
+        "name": "瓦楞纸板",
+        "grade": "OCC #11"
+      },
+      "ewaste": {
+        "name": "电子废料",
+        "grade": "混合低端板"
+      }
+    }
+  },
+  "trust": {
+    "sectionTitle": "为全球合规而构建",
+    "sectionSubtitle": "每批货物均经过验证的合规、认证处理和端到端可追溯性。",
+    "items": {
+      "iso": {
+        "title": "ISO 14001认证",
+        "description": "所有处理设施的环境管理体系均经过审核。"
+      },
+      "basel": {
+        "title": "巴塞尔公约合规",
+        "description": "完全符合可回收材料跨境运输的国际规则。"
+      },
+      "shipping": {
+        "title": "全球航运网络",
+        "description": "覆盖52个国家的认证货运代理,提供FCL/LCL集装箱服务。"
+      },
+      "kyc": {
+        "title": "企业级KYC与AML",
+        "description": "对手方尽职调查、制裁筛查及托管支付流程。"
+      },
+      "rmi": {
+        "title": "负责任矿产",
+        "description": "遵循RMI标准,确保金属来源无冲突。"
+      },
+      "audit": {
+        "title": "年度第三方审计",
+        "description": "由Bureau Veritas对重量、等级和环境绩效进行独立验证。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "今天交易明日的资源。",
+    "sections": {
+      "product": "产品",
+      "company": "公司",
+      "legal": "法律",
+      "connect": "联系"
+    },
+    "links": {
+      "dashboard": "实时仪表板",
+      "materials": "材料库",
+      "api": "交易员API",
+      "about": "关于我们",
+      "careers": "招聘",
+      "press": "新闻",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "compliance": "合规",
+      "contact": "联系我们",
+      "support": "支持中心"
+    },
+    "rights": "© 2026 TheEndRyclecle。保留所有权利。",
+    "disclaimer": "所示价格为LME锚定指示价,非正式报价。最终定价以材料检验和合同为准。"
+  },
+  "common": {
+    "up": "上涨",
+    "down": "下跌",
+    "stable": "稳定",
+    "loading": "加载中…",
+    "perKg": "每千克",
+    "perTon": "每吨",
+    "perLb": "每磅"
+  },
+  "errors": {
+    "notFound": {
+      "title": "页面未找到",
+      "description": "您要查找的页面已移动或不存在。让我们带您回到交易大厅。",
+      "cta": "返回首页"
+    },
+    "boundary": {
+      "title": "出了点问题",
+      "description": "我们的团队已收到通知。请重试 — 如果问题仍然存在,请联系交易台。",
+      "retry": "重试",
+      "home": "返回首页"
+    }
+  },
+  "about": {
+    "headline": "构建循环经济的交易层",
+    "subheadline": "TheEndRyclecle 是全球废料和可回收材料交易的操作系统 — 连接 52 个国家的加工商、经纪人和最终买家。",
+    "stats": {
+      "founded": "成立",
+      "foundedValue": "2021",
+      "team": "全球团队",
+      "teamValue": "180+",
+      "offices": "交易办公室",
+      "officesValue": "8"
+    },
+    "missionTitle": "我们的使命",
+    "missionBody": "每年数亿吨可回收材料因为全球市场缺乏透明的基础设施而被错误定价、错误处理或填埋。我们的存在就是要解决这个问题 — 一次一批经核实的货运。",
+    "valuesTitle": "我们的价值观",
+    "values": {
+      "transparency": {
+        "title": "彻底透明",
+        "body": "您看到的每个价格都锚定于公开基准,并披露来源。"
+      },
+      "compliance": {
+        "title": "默认合规",
+        "body": "制裁筛查、巴塞尔合规和认证重量是内置的 — 而非可选。"
+      },
+      "circular": {
+        "title": "循环设计",
+        "body": "每交易一吨就是从开采中转移一吨。我们衡量并公布我们的回收影响。"
+      }
+    }
+  },
+  "contact": {
+    "headline": "与真正的交易员交流",
+    "subheadline": "我们的交易台从伦敦、新加坡和圣保罗 24/5 运作。平均响应时间不到 4 小时。",
+    "form": {
+      "name": "全名",
+      "company": "公司",
+      "email": "商务邮箱",
+      "country": "国家",
+      "material": "感兴趣的材料",
+      "volume": "估计月交易量",
+      "message": "留言",
+      "submit": "发送至交易台",
+      "sending": "发送中…",
+      "success": "谢谢 — 交易员将在 4 个工作小时内联系您。",
+      "selectMaterial": "选择类别…"
+    },
+    "channels": {
+      "phone": "交易台",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "邮箱",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "工作时间",
+      "hoursValue": "24/5(周一至周五)"
+    }
+  }
+}

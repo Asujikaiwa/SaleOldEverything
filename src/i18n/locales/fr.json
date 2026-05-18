@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — Négoce mondial de ferraille et recyclables",
+    "description": "Cotations internationales en temps réel pour métaux ferreux, non ferreux et recyclables industriels, indexées sur le LME.",
+    "keywords": "négoce ferraille, prix LME, cuivre, aluminium, acier, recyclage, économie circulaire"
+  },
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Prix en direct",
+    "materials": "Matières",
+    "compliance": "Conformité",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion Trader",
+    "cta": "Devis"
+  },
+  "languageSwitcher": {
+    "label": "Langue",
+    "select": "Choisir la langue"
+  },
+  "hero": {
+    "badge": "Indexé LME · 10 langues · 50+ pays",
+    "headline": "La salle de marché mondiale pour la ferraille et les recyclables",
+    "subheadline": "Négociez métaux ferreux, non ferreux et recyclables industriels à des prix transparents indexés au LME.",
+    "searchPlaceholder": "Rechercher : cuivre, HDPE, A380…",
+    "searchButton": "Rechercher",
+    "ctaPrimary": "Voir les cours du jour",
+    "ctaSecondary": "Contacter la salle de marché",
+    "stats": {
+      "volume": "Volume mensuel",
+      "volumeValue": "420 M$+",
+      "countries": "Pays actifs",
+      "countriesValue": "52",
+      "materials": "Matières suivies",
+      "materialsValue": "120+",
+      "uptime": "Disponibilité flux",
+      "uptimeValue": "99,98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "Tableau de bord mondial des prix",
+    "sectionSubtitle": "Indications achat/vente en direct indexées sur LME, SHFE et références régionales. Actualisation toutes les 60 secondes.",
+    "lastUpdated": "Dernière mise à jour",
+    "filters": {
+      "all": "Toutes catégories",
+      "ferrous": "Métaux ferreux",
+      "nonFerrous": "Métaux non ferreux",
+      "nonMetals": "Non métaux industriels"
+    },
+    "currency": "Devise",
+    "unit": "Unité",
+    "columns": {
+      "material": "Matière",
+      "grade": "Grade",
+      "buy": "Achat",
+      "sell": "Vente",
+      "change": "Variation 24h",
+      "trend": "Tendance 7j",
+      "action": "Action"
+    },
+    "actions": {
+      "quote": "Devis",
+      "details": "Détails"
+    },
+    "categories": {
+      "ferrous": "Ferreux",
+      "nonFerrous": "Non ferreux",
+      "nonMetals": "Non métal"
+    },
+    "materials": {
+      "ironHeavy": {
+        "name": "Acier lourd HMS",
+        "grade": "HMS 1&2"
+      },
+      "ironLight": {
+        "name": "Ferraille légère",
+        "grade": "Broyée"
+      },
+      "steelStructural": {
+        "name": "Acier de construction",
+        "grade": "Plaque & profilé"
+      },
+      "scrapCars": {
+        "name": "Véhicules hors d'usage",
+        "grade": "Carrosserie pressée"
+      },
+      "copperWire": {
+        "name": "Cuivre Mill Berry",
+        "grade": "#1"
+      },
+      "copperStripped": {
+        "name": "Cuivre dénudé",
+        "grade": "#2"
+      },
+      "aluminumHeavy": {
+        "name": "Aluminium lourd",
+        "grade": "6063"
+      },
+      "aluminumCans": {
+        "name": "Canettes alu (UBC)",
+        "grade": "Talc"
+      },
+      "brass": {
+        "name": "Laiton jaune",
+        "grade": "Honey"
+      },
+      "stainless": {
+        "name": "Inox",
+        "grade": "304"
+      },
+      "hdpe": {
+        "name": "HDPE industriel",
+        "grade": "Naturel"
+      },
+      "pet": {
+        "name": "Bouteilles PET",
+        "grade": "Transparent"
+      },
+      "occ": {
+        "name": "Carton ondulé",
+        "grade": "OCC #11"
+      },
+      "ewaste": {
+        "name": "DEEE",
+        "grade": "Cartes mixtes"
+      }
+    }
+  },
+  "trust": {
+    "sectionTitle": "Conçu pour la conformité mondiale",
+    "sectionSubtitle": "Chaque expédition passe par une conformité vérifiée, un traitement certifié et une traçabilité de bout en bout.",
+    "items": {
+      "iso": {
+        "title": "Certifié ISO 14001",
+        "description": "Systèmes de management environnemental audités."
+      },
+      "basel": {
+        "title": "Conforme Convention de Bâle",
+        "description": "Conformité totale aux règles de mouvement transfrontalier."
+      },
+      "shipping": {
+        "title": "Réseau mondial",
+        "description": "Transitaires vérifiés couvrant 52 pays, FCL et LCL assurés."
+      },
+      "kyc": {
+        "title": "KYC & LCB-FT",
+        "description": "Due diligence, screening de sanctions, paiements sous séquestre."
+      },
+      "rmi": {
+        "title": "Minerais responsables",
+        "description": "Alignement RMI pour un approvisionnement sans conflit."
+      },
+      "audit": {
+        "title": "Audits tiers annuels",
+        "description": "Vérification indépendante par Bureau Veritas."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Les ressources de demain, négociées aujourd'hui.",
+    "sections": {
+      "product": "Produit",
+      "company": "Société",
+      "legal": "Mentions légales",
+      "connect": "Contact"
+    },
+    "links": {
+      "dashboard": "Tableau de bord",
+      "materials": "Bibliothèque",
+      "api": "API trader",
+      "about": "À propos",
+      "careers": "Carrières",
+      "press": "Presse",
+      "privacy": "Confidentialité",
+      "terms": "CGU",
+      "compliance": "Conformité",
+      "contact": "Contact",
+      "support": "Assistance"
+    },
+    "rights": "© 2026 TheEndRyclecle. Tous droits réservés.",
+    "disclaimer": "Prix indicatifs indexés au LME, ne constituent pas une offre ferme."
+  },
+  "common": {
+    "up": "Hausse",
+    "down": "Baisse",
+    "stable": "Stable",
+    "loading": "Chargement…",
+    "perKg": "par kg",
+    "perTon": "par t",
+    "perLb": "par lb"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page introuvable",
+      "description": "La page recherchée a été déplacée ou n'a jamais existé. Retournons à la salle de marché.",
+      "cta": "Retour à l'accueil"
+    },
+    "boundary": {
+      "title": "Une erreur est survenue",
+      "description": "Notre équipe a été notifiée. Veuillez réessayer — si le problème persiste, contactez la salle de marché.",
+      "retry": "Réessayer",
+      "home": "Accueil"
+    }
+  },
+  "about": {
+    "headline": "Construire la couche de négoce de l'économie circulaire",
+    "subheadline": "TheEndRyclecle est le système d'exploitation du négoce mondial de la ferraille et des recyclables — connectant transformateurs, courtiers et acheteurs finaux dans 52 pays.",
+    "stats": {
+      "founded": "Fondée en",
+      "foundedValue": "2021",
+      "team": "Équipe mondiale",
+      "teamValue": "180+",
+      "offices": "Bureaux de trading",
+      "officesValue": "8"
+    },
+    "missionTitle": "Notre mission",
+    "missionBody": "Chaque année, des centaines de millions de tonnes de matières récupérables sont mal valorisées, mal gérées ou enfouies parce que le marché mondial manque d'infrastructure transparente. Nous existons pour corriger cela — une expédition vérifiée à la fois.",
+    "valuesTitle": "Nos valeurs",
+    "values": {
+      "transparency": {
+        "title": "Transparence radicale",
+        "body": "Chaque prix affiché est indexé à un benchmark public dont la source est divulguée."
+      },
+      "compliance": {
+        "title": "Conformité par défaut",
+        "body": "Screening de sanctions, conformité Bâle et pesées certifiées sont intégrés — jamais optionnels."
+      },
+      "circular": {
+        "title": "Circulaire par conception",
+        "body": "Chaque tonne négociée est une tonne détournée de l'extraction. Nous mesurons et publions notre impact."
+      }
+    }
+  },
+  "contact": {
+    "headline": "Parlez à un vrai trader",
+    "subheadline": "Notre salle opère 24/5 depuis Londres, Singapour et São Paulo. Délai de réponse moyen sous 4 heures.",
+    "form": {
+      "name": "Nom complet",
+      "company": "Société",
+      "email": "E-mail professionnel",
+      "country": "Pays",
+      "material": "Matière d'intérêt",
+      "volume": "Volume mensuel estimé",
+      "message": "Message",
+      "submit": "Envoyer à la salle",
+      "sending": "Envoi…",
+      "success": "Merci — un trader vous recontactera sous 4 heures ouvrées.",
+      "selectMaterial": "Choisir une catégorie…"
+    },
+    "channels": {
+      "phone": "Salle de marché",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "E-mail",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "Horaires",
+      "hoursValue": "24/5 (Lun–Ven)"
+    }
+  }
+}

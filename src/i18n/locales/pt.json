@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "TheEndRyclecle — Negociação Global de Sucata e Recicláveis",
+    "description": "Preços internacionais em tempo real para metais ferrosos, não ferrosos e recicláveis industriais, ancorados na LME.",
+    "keywords": "sucata metálica, preços LME, cobre, alumínio, aço, reciclagem, economia circular"
+  },
+  "nav": {
+    "home": "Início",
+    "dashboard": "Preços ao vivo",
+    "materials": "Materiais",
+    "compliance": "Conformidade",
+    "about": "Sobre",
+    "contact": "Contato",
+    "login": "Login Trader",
+    "cta": "Cotação"
+  },
+  "languageSwitcher": {
+    "label": "Idioma",
+    "select": "Selecionar idioma"
+  },
+  "hero": {
+    "badge": "Ancorado na LME · 10 idiomas · 50+ países",
+    "headline": "O pregão global para sucata e materiais recicláveis",
+    "subheadline": "Negocie metais ferrosos, não ferrosos e recicláveis industriais com preços transparentes ancorados na LME.",
+    "searchPlaceholder": "Buscar: cobre, HDPE, A380…",
+    "searchButton": "Buscar",
+    "ctaPrimary": "Ver preços de hoje",
+    "ctaSecondary": "Falar com a mesa de trading",
+    "stats": {
+      "volume": "Volume mensal",
+      "volumeValue": "US$ 420M+",
+      "countries": "Países ativos",
+      "countriesValue": "52",
+      "materials": "Materiais monitorados",
+      "materialsValue": "120+",
+      "uptime": "Disponibilidade do feed",
+      "uptimeValue": "99,98%"
+    }
+  },
+  "dashboard": {
+    "sectionTitle": "Painel global de preços",
+    "sectionSubtitle": "Indicações de compra/venda ao vivo ancoradas em LME, SHFE e benchmarks regionais. Atualização a cada 60 segundos.",
+    "lastUpdated": "Última atualização",
+    "filters": {
+      "all": "Todas as categorias",
+      "ferrous": "Metais ferrosos",
+      "nonFerrous": "Metais não ferrosos",
+      "nonMetals": "Não metálicos industriais"
+    },
+    "currency": "Moeda",
+    "unit": "Unidade",
+    "columns": {
+      "material": "Material",
+      "grade": "Grau",
+      "buy": "Compra",
+      "sell": "Venda",
+      "change": "Variação 24h",
+      "trend": "Tendência 7d",
+      "action": "Ação"
+    },
+    "actions": {
+      "quote": "Cotar",
+      "details": "Detalhes"
+    },
+    "categories": {
+      "ferrous": "Ferroso",
+      "nonFerrous": "Não ferroso",
+      "nonMetals": "Não metálico"
+    },
+    "materials": {
+      "ironHeavy": {
+        "name": "Aço pesado HMS",
+        "grade": "HMS 1&2"
+      },
+      "ironLight": {
+        "name": "Sucata leve",
+        "grade": "Triturada"
+      },
+      "steelStructural": {
+        "name": "Aço estrutural",
+        "grade": "Chapa & perfil"
+      },
+      "scrapCars": {
+        "name": "Veículos em fim de vida",
+        "grade": "Carroceria prensada"
+      },
+      "copperWire": {
+        "name": "Cobre Mill Berry",
+        "grade": "#1"
+      },
+      "copperStripped": {
+        "name": "Cobre descascado",
+        "grade": "#2"
+      },
+      "aluminumHeavy": {
+        "name": "Alumínio pesado",
+        "grade": "6063"
+      },
+      "aluminumCans": {
+        "name": "Latas de alumínio (UBC)",
+        "grade": "Talc"
+      },
+      "brass": {
+        "name": "Latão amarelo",
+        "grade": "Honey"
+      },
+      "stainless": {
+        "name": "Aço inox",
+        "grade": "304"
+      },
+      "hdpe": {
+        "name": "HDPE industrial",
+        "grade": "Natural"
+      },
+      "pet": {
+        "name": "Garrafas PET",
+        "grade": "Transparente"
+      },
+      "occ": {
+        "name": "Papelão ondulado",
+        "grade": "OCC #11"
+      },
+      "ewaste": {
+        "name": "Sucata eletrônica",
+        "grade": "Placas mistas"
+      }
+    }
+  },
+  "trust": {
+    "sectionTitle": "Construído para conformidade global",
+    "sectionSubtitle": "Cada embarque passa por conformidade verificada, processamento certificado e rastreabilidade ponta a ponta.",
+    "items": {
+      "iso": {
+        "title": "Certificado ISO 14001",
+        "description": "Sistemas de gestão ambiental auditados em todas as instalações."
+      },
+      "basel": {
+        "title": "Conforme Convenção de Basileia",
+        "description": "Total conformidade com normas de movimento transfronteiriço."
+      },
+      "shipping": {
+        "title": "Rede global de envios",
+        "description": "Despachantes verificados em 52 países, FCL/LCL com seguro."
+      },
+      "kyc": {
+        "title": "KYC e AML corporativo",
+        "description": "Due diligence, screening de sanções e pagamentos em escrow."
+      },
+      "rmi": {
+        "title": "Minerais responsáveis",
+        "description": "Alinhado ao RMI para sourcing livre de conflitos."
+      },
+      "audit": {
+        "title": "Auditoria anual independente",
+        "description": "Verificação por Bureau Veritas."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Negociando os recursos de amanhã, hoje.",
+    "sections": {
+      "product": "Produto",
+      "company": "Empresa",
+      "legal": "Legal",
+      "connect": "Conectar"
+    },
+    "links": {
+      "dashboard": "Painel ao vivo",
+      "materials": "Biblioteca de materiais",
+      "api": "API do trader",
+      "about": "Sobre nós",
+      "careers": "Carreiras",
+      "press": "Imprensa",
+      "privacy": "Privacidade",
+      "terms": "Termos",
+      "compliance": "Conformidade",
+      "contact": "Contato",
+      "support": "Suporte"
+    },
+    "rights": "© 2026 TheEndRyclecle. Todos os direitos reservados.",
+    "disclaimer": "Preços exibidos são indicações ancoradas na LME e não constituem oferta firme."
+  },
+  "common": {
+    "up": "Alta",
+    "down": "Baixa",
+    "stable": "Estável",
+    "loading": "Carregando…",
+    "perKg": "por kg",
+    "perTon": "por t",
+    "perLb": "por lb"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Página não encontrada",
+      "description": "A página que você procurava foi movida ou nunca existiu. Vamos voltar ao pregão.",
+      "cta": "Voltar ao início"
+    },
+    "boundary": {
+      "title": "Algo deu errado",
+      "description": "Nossa equipe foi notificada. Tente novamente — se persistir, fale com a mesa de trading.",
+      "retry": "Tentar novamente",
+      "home": "Ir para o início"
+    }
+  },
+  "about": {
+    "headline": "Construindo a camada de negociação da economia circular",
+    "subheadline": "TheEndRyclecle é o sistema operacional do comércio global de sucata e recicláveis — conectando processadores, brokers e compradores finais em 52 países.",
+    "stats": {
+      "founded": "Fundada",
+      "foundedValue": "2021",
+      "team": "Equipe global",
+      "teamValue": "180+",
+      "offices": "Escritórios de trading",
+      "officesValue": "8"
+    },
+    "missionTitle": "Nossa missão",
+    "missionBody": "Todo ano, centenas de milhões de toneladas de material recuperável são precificadas erroneamente, mal manuseadas ou aterradas porque o mercado global carece de infraestrutura transparente. Existimos para corrigir isso — um embarque verificado por vez.",
+    "valuesTitle": "O que defendemos",
+    "values": {
+      "transparency": {
+        "title": "Transparência radical",
+        "body": "Cada preço exibido está ancorado em um benchmark público com a fonte revelada."
+      },
+      "compliance": {
+        "title": "Conformidade por padrão",
+        "body": "Triagem de sanções, conformidade Basileia e pesos certificados são embutidos — nunca opcionais."
+      },
+      "circular": {
+        "title": "Circular por design",
+        "body": "Cada tonelada negociada é uma tonelada desviada da extração. Medimos e publicamos nosso impacto."
+      }
+    }
+  },
+  "contact": {
+    "headline": "Fale com um trader real",
+    "subheadline": "Nossa mesa opera 24/5 de Londres, Singapura e São Paulo. Tempo médio de resposta abaixo de 4 horas.",
+    "form": {
+      "name": "Nome completo",
+      "company": "Empresa",
+      "email": "E-mail corporativo",
+      "country": "País",
+      "material": "Material de interesse",
+      "volume": "Volume mensal estimado",
+      "message": "Mensagem",
+      "submit": "Enviar à mesa",
+      "sending": "Enviando…",
+      "success": "Obrigado — um trader entrará em contato em até 4 horas úteis.",
+      "selectMaterial": "Selecione uma categoria…"
+    },
+    "channels": {
+      "phone": "Mesa de trading",
+      "phoneValue": "+44 20 7946 0958",
+      "email": "E-mail",
+      "emailValue": "desk@theendryclecle.com",
+      "hours": "Horário",
+      "hoursValue": "24/5 (Seg–Sex)"
+    }
+  }
+}
